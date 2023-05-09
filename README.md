@@ -55,3 +55,9 @@ Libft es un proyecto individual en 42 que nos hace a recrear algunas funciones d
 [ft_lstiter.c](https://github.com/Folkenciyo/libft/blob/master/ft_lstiter.c)  
 [ft_lstmap_fd.c](https://github.com/Folkenciyo/libft/blob/master/ft_lstmap_fd.c)  
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/portfolio-002?style=for-the-badge&logo=ko-fi&logoColor=white)](https://porfolio-juan-guerrero.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanguerrerodeveloper/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JuanAGuerreroP1)
+
+

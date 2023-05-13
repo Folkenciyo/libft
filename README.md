@@ -3,7 +3,7 @@
 Libft: Este proyecto consiste en codificar una biblioteca en C que agrupe funciones habituales que podrás utilizar en todos mis demás proyectos.
 
 <p align="center">
-    <img src="http://asidesigned.com/images/programming-projects-img/project-libft.jpg" height="250">
+ <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://asidesigned.com/images/programming-projects-img/project-libft.jpg" height=125% width= 125%> 
 </p>
 
 ## Contenido

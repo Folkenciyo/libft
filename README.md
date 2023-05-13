@@ -1,10 +1,15 @@
-# Libft
-
+<br/>
 <p align="center">
+  <h1 align="center">LIBFT</h1>
  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://asidesigned.com/images/programming-projects-img/project-libft.jpg" height=125% width= 125%> 
 </p>
 
-Este es el proyecto libft del cursus de 42 Málaga.
+ <p align="center">
+    Este es el proyecto libft del cursus de 42 Málaga. 
+    <br/>
+    <br/>
+  </p>
+</p>
 
 ## Contenido
 
